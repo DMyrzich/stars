@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/DMyrzich/start-wars/static/css/main.e56f3bd4.chunk.css",
-    "main.js": "/DMyrzich/start-wars/static/js/main.50d7199a.chunk.js",
-    "main.js.map": "/DMyrzich/start-wars/static/js/main.50d7199a.chunk.js.map",
-    "runtime-main.js": "/DMyrzich/start-wars/static/js/runtime-main.d8cb25cc.js",
-    "runtime-main.js.map": "/DMyrzich/start-wars/static/js/runtime-main.d8cb25cc.js.map",
-    "static/css/2.8d9074ed.chunk.css": "/DMyrzich/start-wars/static/css/2.8d9074ed.chunk.css",
-    "static/js/2.58263872.chunk.js": "/DMyrzich/start-wars/static/js/2.58263872.chunk.js",
-    "static/js/2.58263872.chunk.js.map": "/DMyrzich/start-wars/static/js/2.58263872.chunk.js.map",
-    "index.html": "/DMyrzich/start-wars/index.html",
-    "static/css/2.8d9074ed.chunk.css.map": "/DMyrzich/start-wars/static/css/2.8d9074ed.chunk.css.map",
-    "static/css/main.e56f3bd4.chunk.css.map": "/DMyrzich/start-wars/static/css/main.e56f3bd4.chunk.css.map",
-    "static/js/2.58263872.chunk.js.LICENSE.txt": "/DMyrzich/start-wars/static/js/2.58263872.chunk.js.LICENSE.txt",
-    "static/media/star_PNG41482.bba83b56.png": "/DMyrzich/start-wars/static/media/star_PNG41482.bba83b56.png"
+    "main.css": "/stars/static/css/main.e56f3bd4.chunk.css",
+    "main.js": "/stars/static/js/main.50d7199a.chunk.js",
+    "main.js.map": "/stars/static/js/main.50d7199a.chunk.js.map",
+    "runtime-main.js": "/stars/static/js/runtime-main.57f01df2.js",
+    "runtime-main.js.map": "/stars/static/js/runtime-main.57f01df2.js.map",
+    "static/css/2.8d9074ed.chunk.css": "/stars/static/css/2.8d9074ed.chunk.css",
+    "static/js/2.6531e689.chunk.js": "/stars/static/js/2.6531e689.chunk.js",
+    "static/js/2.6531e689.chunk.js.map": "/stars/static/js/2.6531e689.chunk.js.map",
+    "index.html": "/stars/index.html",
+    "static/css/2.8d9074ed.chunk.css.map": "/stars/static/css/2.8d9074ed.chunk.css.map",
+    "static/css/main.e56f3bd4.chunk.css.map": "/stars/static/css/main.e56f3bd4.chunk.css.map",
+    "static/js/2.6531e689.chunk.js.LICENSE.txt": "/stars/static/js/2.6531e689.chunk.js.LICENSE.txt",
+    "static/media/star_PNG41482.bba83b56.png": "/stars/static/media/star_PNG41482.bba83b56.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8cb25cc.js",
+    "static/js/runtime-main.57f01df2.js",
     "static/css/2.8d9074ed.chunk.css",
-    "static/js/2.58263872.chunk.js",
+    "static/js/2.6531e689.chunk.js",
     "static/css/main.e56f3bd4.chunk.css",
     "static/js/main.50d7199a.chunk.js"
   ]
